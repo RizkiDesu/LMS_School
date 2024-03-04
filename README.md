@@ -22,10 +22,10 @@
 </p>
 
 ## Konfigurasi admin db
-username : admin
-email : admin@gmail.com
-pass : 1234567890
-input pass in db : $2y$12$SJQUCu24oeDJCzEopsjT3eGW3ilFTkckzbg/eK0o86yMt1hlWZZ8G
+- username : admin
+- email : admin@gmail.com
+- pass : 1234567890
+- input pass in db : $2y$12$SJQUCu24oeDJCzEopsjT3eGW3ilFTkckzbg/eK0o86yMt1hlWZZ8G
 
 ## 📝 About Project
 
